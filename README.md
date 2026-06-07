@@ -68,7 +68,7 @@ Syntax:
 ساختار دستور:
 
 ```bash
-python3 download_all_wheels.py <package_name> <output_directory>
+python3 download_pypi_all.py <package_name> <output_directory>
 ```
 
 Example:
@@ -76,7 +76,7 @@ Example:
 مثال:
 
 ```bash
-python3 download_all_wheels.py numpy ./downloads
+python3 download_pypi_all.py numpy ./downloads
 ```
 
 Another example:
@@ -84,7 +84,7 @@ Another example:
 مثال دیگر:
 
 ```bash
-python3 download_all_wheels.py requests ./downloads
+python3 download_pypi_all.py requests ./downloads
 ```
 
 ---

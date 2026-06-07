@@ -51,7 +51,7 @@ Clone the repository:
 کلون کردن ریپازیتوری:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pypi-wheel-downloader.git
+git clone https://github.com/mkhazaeidev/pypi-wheel-downloader.git
 cd pypi-wheel-downloader
 ```
 
